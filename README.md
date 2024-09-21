@@ -14,3 +14,4 @@ To-do list:
 - Require authentication for creating orders
 - Handle (mocking) payments and refunds
 - Implement SAGA pattern in orchestrator for dealing with distributed transactions and compensating the transactions as required on failure
+- Decouple microservice's calls with SNS + SQS
